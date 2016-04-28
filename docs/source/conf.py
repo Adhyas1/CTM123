@@ -49,8 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'CTM'
-copyright = '2016, Sadhana & Meghana'
-author = 'Sadhana & Meghana'
+author = 'PragSo Technologies and Nusiv Technologies'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -95,7 +94,7 @@ exclude_patterns = []
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
@@ -113,6 +112,7 @@ todo_include_todos = False
 # a list of builtin themes.
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -229,7 +229,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'CTM.tex', 'CTM Documentation',
-     'Sadhana \\& Meghana', 'manual'),
+     'PragSo Technologies \\& Nusiv Technologies', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

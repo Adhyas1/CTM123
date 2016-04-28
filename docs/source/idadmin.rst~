@@ -1,17 +1,16 @@
-ID Admin
-========
 Add ID Type
-^^^^^^^^^^^
+===========
 **Add ID Type** is used for assigning value to each of the hospital(facilities) and EHRs.
 
-1. Click on Add Id Type button
+1.Click on Add Id Type button.
 
-2.You will see the **ID Type** customization Screen.
+2.You will see the ID Type customization Screen.
 
 .. image:: adminidadmin1.png
    :width: 500px
    :align: center
    :height: 200px
+
 
 3.The Id is a automatically numbered for the next ID type. Type a Name,and then a Description.Click to checkmark a status of either Active or Inactive,and whether or not to Allow Multiples.
 
@@ -19,6 +18,8 @@ Add ID Type
    :width: 500px
    :align: center
    :height: 200px
+    
+
 
 4.Click  Save.The new hospital will now appear in the ID Type List. 
 

@@ -28,20 +28,13 @@ Home Page
    medication
    otherorders
    uniqueid
-   list
-   review
-   newid
-   synonyms
-   medications
-   laboratory
-   diagnostics
+   synonymsmanagement
    ordersets
-   zynx
-   provation
    reporting
    admin
+   facilities
+   users
    idadmin
-   facilties
    userprofile
    logout
 
